@@ -1,0 +1,9 @@
+{
+    "secret_key": "",
+    "account_address": "",
+
+    "multi_sig": {
+        "authorized_users": [
+        ]
+    }
+}
